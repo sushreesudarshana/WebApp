@@ -84,7 +84,7 @@ public class cancelpage extends HttpServlet {
 				}
 			catch(SQLException e)
 			{
-			throw new RuntimeException("Cannot connect the database!", e);		
+			throw new RuntimeException("Cannot connect the the database!", e);		
 				}
 			}
 }
