@@ -31,6 +31,7 @@ style:color:blue;
 #section { 
     background-repeat: no-repeat;
 	background-attachment: fixed;
+	
     background-position: center; 
 }
 #footer {
